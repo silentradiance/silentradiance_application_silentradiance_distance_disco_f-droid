@@ -1,0 +1,2 @@
+# silentradiance_application_silentradiance_distance_disco_f-droid
+android f-droid compiant app
